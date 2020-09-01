@@ -1,4 +1,3 @@
-# employee_directory_react
 
 # employee_directory_react
 
